@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    padding-inline: 40px;
+}
+
+.text {
+    display: flex;
+}
+
+.Christmas {
+    display: flex;
+    font-weight: 500px;
+    font-size: 16px;
+    color: #282525;
+    padding: 24px;
+    padding-left: 184px;
+}
+
+.home {
+    display: flex;
+    justify-content: end;
+    gap: 48px;
+    font-weight: 500px;
+    font-size: 16px;
+    color: #282525;
+    padding: 24px;
+    padding-left: 712px;
+
+    .home1 {
+        color: #DC3845;
+    }
+}
+
+.header2 {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+
+    .img1 {
+        width: 500px;
+        height: 440px;
+
+    }
+}
+
+.text2 {
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+.merry {
+    font-weight: 600px;
+    font-size: 50px;
+    color: #282525;
+
+}
+
+.cris {
+    font-weight: 400;
+    font-size: 20px;
+    color: #5D5656;
+}
+
+.but1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 64px;
+    background-color: #DC3845;
+    border: none;
+    cursor: pointer;
+    color: white;
+    gap: 10px;
+    width: 204px;
+    height: 64px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 310px;
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    columns: #282525;
+    font-weight: 500;
+    font-size: 24px;
+    padding-top: 72px;
+
+}
+
+.surp1 {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.surp11 {
+    width: 120px;
+    height: 120px;
+}
+
+.surp {
+    font-weight: 600px;
+    font-size: 20px;
+    color: #282525;
+
+}
+
+.they {
+    color: #5D5656;
+    font-size: 14px;
+    font-weight: 400;
+}
+.nav2
+{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    padding: 52px;
+    height: 550px;
+}
+.nav22 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 372px;
+    gap: 24px;
+}
+.celebrate{
+    font-size: 24px;
+    font-weight: 500;
+    color: #282525;
+}
+.this{
+    font-size: 16px;
+    font-weight: 400px;
+    color:  #534e4e;
+}
+.but2{
+
+background-color: #DC3845;
+color: white;
+width: 215px;
+height: 56px;
+border: none;
+border-radius: 64px;
+gap: 10px;
+}
+.nosok{
+    width: 450px;
+    height: 400px;
+    
+}
+.share{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 600px;
+    
+}
+.nav3{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 40px;
+flex-wrap: wrap;
+    height: 245px;
+    /* width: 900px; */
+}
+.nav33{
+    
+    border-radius: 12px;
+    border: solid #301D1E1A;
+    width: 180px;
+    height: 240px;
+    gap: 15px;
+    padding: 10px;
+}
+.ser{
+    padding-bottom:95px;
+    padding-left: 10px;
+    
+}
+.pechen{
+    width: 120px;
+    height: 120px;
+}
+.son{
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.Gingerbread{
+color: #5D5656;
+font-size: 14px;
+font-weight: 500;
+}
